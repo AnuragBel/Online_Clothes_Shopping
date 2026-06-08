@@ -1,0 +1,7 @@
+# Example for Python AI projects
+__pycache__/
+*.env
+venv/
+.chroma/
+*.pyc
+node_modules/
